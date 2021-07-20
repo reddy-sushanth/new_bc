@@ -2,7 +2,7 @@ BlockNet
 ===================
 A simple, fully-functional, decentralized content sharing web application, which implements a public blockchain from scratch, and the Flask web framework with Jinja2 templating.
 
-![blocknet.png](https://github.com/matthewmuccio/BlockNet/raw/master/screenshots/blocknet-home.png)
+
 
 Project
 -------
